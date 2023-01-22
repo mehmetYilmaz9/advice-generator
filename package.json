@@ -1,6 +1,6 @@
 {
   "name": "hooksapi",
-  "homepage": "https://github.com/mehmetYilmaz9/advice-generator.github.io",
+  "homepage": "https://github.com/mehmetYilmaz9/advice-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
